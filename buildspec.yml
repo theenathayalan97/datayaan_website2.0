@@ -1,0 +1,9 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      # No build steps needed for HTML/CSS-only project
+
+artifacts:
+  files: '**/*'
